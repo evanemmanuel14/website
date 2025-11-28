@@ -10,7 +10,7 @@ export default function Home() {
             <div className="h-8 w-8 rounded-lg bg-gradient-to-br from-emerald-400 to-cyan-400" />
             <div>
               <div className="text-sm uppercase tracking-[0.2em] text-emerald-300">
-                Your Company
+                TECGIN SOLUTION AN ENGINEERING
               </div>
               <div className="text-sm text-slate-400">
                 Technology · Analytics · Solutions
